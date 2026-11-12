@@ -1,0 +1,10 @@
+node_modules/
+.env
+.auth/
+test-results/
+playwright-report/
+blob-report/
+reports/
+tests/fixtures/big-*
+explore-out/
+test-data/
